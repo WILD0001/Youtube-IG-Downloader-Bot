@@ -5,3 +5,7 @@ git+https://github.com/ytdl-org/youtube-dl
 wget
 pillow
 hachoir
+python-telegram-bot
+
+requests==2.21.0
+
